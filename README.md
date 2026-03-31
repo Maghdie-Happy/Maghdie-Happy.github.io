@@ -39,4 +39,6 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 <video width="600" controls src="Interview Maghdie Petersen.mp4">
 </video>  
 
+  
+**CV of Maghdie Petersen**  
 [📄 Download My CV (PDF Version)](./Maghdie%20Petersen_CV.pdf)
