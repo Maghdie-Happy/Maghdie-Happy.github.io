@@ -34,8 +34,6 @@ References
 **Mrs. I DeWet** | Spine Road High School | 079-992-5167     
 **Mr. Tawanda** | Cape Peninsula University of Technology/College of Cape Town | 078-018-5724   
 
-
-
-
+This is an interview to show
 <video width="600" controls src="Interview Maghdie Petersen.mp4">
 </video>
