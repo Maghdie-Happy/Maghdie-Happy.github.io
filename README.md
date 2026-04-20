@@ -47,9 +47,13 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 **Reflections on my experiences creating and publishing my digital portfolio using GitHub** 
 
 **Coding in Markdown** 
+
 **Situation:** As part of my Project Presentation 3 assessment, I was required to develop a professional digital portfolio to showcase my technical skills and work readiness. A core requirement was to move away from traditional document editors and instead use GitHub Flavored Markdown (GFM) to build the site’s content.
+
 **Task:** My objective was to translate my existing professional CV into a structured Markdown format and organize the overall layout of the portfolio. This included ensuring that all media, specifically my mock interview video and external links, were correctly embedded and functional within a code-based environment.
+
 **Action:** Leveraging my background in HTML, CSS and JavaScript, I adapted quickly to Markdown’s syntax. I focused on maintaining a clean and manageable codebase by using essential GFM features like hierarchal headers, bold emphasis for key details, and structured lists. When navigating the initial layout became tricky, I prioritized a simple, modular structure to avoid technical debt. I specifically spent time troubleshooting the syntax for embedding my interview video and linking my CV file to ensure the paths were recognized correctly by the GitHub environment.
+
 **Result:** Despite the initial learning curve and the differences compared to a traditional word processor, I successfully deployed a fully functional, code-driven portfolio. This process deepened my understanding of “Documentation-as-Code” and improved my ability to manage project metadata. Overcoming these technical challenges confirmed that my foundation in web development is a versatile asset, allowing me to master new documentation tools efficiently.
 
 **Mock Interview Video Experience**
