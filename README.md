@@ -42,3 +42,7 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
   
 **CV of Maghdie Petersen**  
 [📄 Download My CV (PDF Version)](./Maghdie%20Petersen_CV.pdf)
+
+**Reflections on my experiences creating and publishing my digital portfolio using GitHub** 
+
+
