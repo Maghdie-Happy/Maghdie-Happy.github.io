@@ -56,16 +56,26 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 **Result:** Despite the initial learning curve and the differences compared to a traditional word processor, I successfully deployed a fully functional, code-driven portfolio. This process deepened my understanding of “Documentation-as-Code” and improved my ability to manage project metadata. Overcoming these technical challenges confirmed that my foundation in web development is a versatile asset, allowing me to master new documentation tools efficiently.
 
+\ 
 **Mock Interview Video Experience**
+
 **Situation:** To demonstrate work readiness and professional communication, I was required to record and embed a mock interview video into my digital portfolio. This task aimed to bridge the gap between my technical coding abilities and the soft skills required for the professional tech industry.
+
 **Task:** The goal was to provide high-quality responses to industry-standard behavioral questions while maintaining a professional persona. I needed to manage the entire production process (including research, filming, editing, and technical integration), ensuring the final product was suitable for potential employers to view.
+
 **Action:** I began by researching common tech-industry interview questions and utilized the resources provided by the lecturer to draft responses. I tailored these answers to authentically reflect my personality and career goals. To ensure professional delivery, I studied industry articles and videos on interview etiquette. During the production phase, I encountered several technical hurdles, including poor lighting, camera clarity issues, and microphone malfunctions. I resolved these by borrowing better equipment from friends and family and teaching myself video editing through online tutorials. I also practiced my speaking tone and pacing to ensure clarity on camera remaining patient through multiple retakes to get the best possible result.
+
 **Result:** The process resulted in a successfully embedded video that effectively showcases my communication skills. While I identified areas for future improvement (such as stronger hand gestures, a more audible speaking volume, and a more neutral background), watching the footage back gave me a sense of accomplishment. Beyond the interview itself, I gained valuable experience in videography and digital presentation. These are now versatile skills I can apply to future remote interviews and professional presentations.
 
+\ 
 **Published on GitHub Pages**
+
 **Situation:** The final stage of my Project Presentation 3 assessment required me to transition my digital portfolio from a local development environment to a live, publicly accessible website using GitHub Pages.
+
 **Task:** My goal was to host my repository as a live site, ensuring that the structural integrity of my CV, the functionality of my embedded mock interview video, and all navigation links worked seamlessly in a live production environment.
+
 **Action:** I utilized the GitHub deployment settings to launch the site. Upon the initial publication, I noticed several synchronization issues where headings were misaligned, paragraphs were out of order, and the video player failed to load correctly. Drawing on my background in coding, I systematically audited the repository. I implemented a rigorous testing process, checking each link and media file path before re-pushing my changes. I chose to stay patient and avoided rushing the process, which allowed me to identify small syntax errors that were affecting the live site’s layout.
+
 **Result:** Successfully launching the live portfolio felt like a significant achievement, akin to finishing a race after hours of intensive effort. This experience reinforced a critical development principle: the importance of frequent testing and verifying work during the deployment phase. I learned that a deep understanding of the language is essential to avoid struggle and that perseverance is the best tool for overcoming technical hurdles. The final result is a professional, accessible URL that I can now confidently share with potential employers.
 
 
