@@ -123,8 +123,14 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 
 ### 1.2 Structured Reflection 
 
+#### Collect
+When initiating the Connectly project, we collected team communication channels, role allocations, CPUT project guidelines, and initial scope requirements. We organizes these into a centralized Team Charter to establish operational boundaries and shared team accountability from day one.
   
+#### Select
 
+#### Reflect
+
+#### Connect
  
 
 
