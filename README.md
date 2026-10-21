@@ -120,6 +120,9 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 * Protocols for Communication:
   - Instant notifications on the group WhatsApp channel are crucial obtacles.
   - Trello card logs and comments on GitHub pull requests are examples of technical specifications and code reviews.
+
+### 1.2 Structured Reflection 
+
   
 
  
