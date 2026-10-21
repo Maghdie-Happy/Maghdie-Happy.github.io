@@ -75,6 +75,6 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 **Result:** Successfully launching the live portfolio felt like a significant achievement, akin to finishing a race after hours of intensive effort. This experience reinforced a critical development principle: the importance of frequent testing and verifying work during the deployment phase. I learned that a deep understanding of the language is essential to avoid struggle and that perseverance is the best tool for overcoming technical hurdles. The final result is a professional, accessible URL that I can now confidently share with potential employers.
 
-
+# Connectly - Belhar Community Job Marketplace
 
 
