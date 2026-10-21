@@ -105,7 +105,7 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 
 ## 3. Core Values
 * Accountability & Transparency: Each job needs to be supported by atomic GitHub commits and connected to a Trello card.
-* :
+* Privacy by Design: Complete compliance with POPIA regulations concerning location coordinates and user personal data.
 * :
 * :
 
