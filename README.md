@@ -104,7 +104,7 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
   - Quality Assurance & Documentation: Sprint Logbook Audits, User Story Acceptance Testing.
 
 ## 3. Core Values
-* Accountability & Transparency: 
+* Accountability & Transparency: Each job needs to be supported by atomic GitHub commits and connected to a Trello card.
 * :
 * :
 * :
