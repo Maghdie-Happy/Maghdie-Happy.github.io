@@ -85,4 +85,8 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 **GitHub Portfolio URL:** [https://Maghdie-Happy.github.io](https://Maghdie-Happy.github.io) \
 **Trello Project Board:** [https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace) \
 
+---
+
+
+
 
