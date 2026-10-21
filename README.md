@@ -81,8 +81,8 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 **Student ID:** 230600204 \
 **Course/Subject:** Diploma in Information Communication Technology (Applications Development) - Project Presentation 3 \
 **Institution:** Cape Peninsula University of Technology (CPUT) \
-**: ** \
-**: ** \
-**: ** \
+**Live Application URL:** [https://belhar-connect-hublatestt.vercel.app/](https://belhar-connect-hublatestt.vercel.app/)  \
+**GitHub Portfolio URL:** [https://Maghdie-Happy.github.io](https://Maghdie-Happy.github.io) \
+**Trello Project Board:** [https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace) \
 
 
