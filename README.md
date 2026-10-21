@@ -113,13 +113,13 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 * Daily Stand-ups: Asynchronous updates must be submitted by 9 AM every day via WhatsApp or GitHub repository discussion threads.
 * Sprint Cadence: Monday through Sunday, one-week sprint cycles.
 * Definition of Done (DoD) :
-  1.
-  2.
-  3.
-  4.
-* :
-  -  ss
-  -  
+  1. There are no syntax or compilation issues when code compiles locally. 
+  2. Relational integrity constraints in MySQL 8.0 are satisfied by SQL updates.
+  3. API gateway endpoints are used to test the feature branch.
+  4. Before merging to `main`, the project manager reviews and approves the pull request. 
+* Protocols for Communication:
+  - Instant notifications on the group WhatsApp channel are crucial obtacles.
+  - Trello card logs and comments on GitHub pull requests are examples of technical specifications and code reviews.
   
 
  
