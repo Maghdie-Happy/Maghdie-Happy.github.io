@@ -107,7 +107,7 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 * Accountability & Transparency: Each job needs to be supported by atomic GitHub commits and connected to a Trello card.
 * Privacy by Design: Complete compliance with POPIA regulations concerning location coordinates and user personal data.
 * Resource Efficiency: For low-end Android mobile devices running on 3G/4G networks, codebases and API queries need to be optimized.
-* :
+* Collaboration & Respect: Constructive peer review when evaluating GitHub Pull Requests (PRs).
 
 
  
