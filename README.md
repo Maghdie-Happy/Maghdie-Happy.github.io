@@ -103,6 +103,12 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
   - Front-End Developers: UI Component Design, Vercel Deployment, Client-Side Caching.
   - Quality Assurance & Documentation: Sprint Logbook Audits, User Story Acceptance Testing.
 
+## 3. Core Values
+* Accountability & Transparency: 
+* :
+* :
+* :
+
 
  
 
