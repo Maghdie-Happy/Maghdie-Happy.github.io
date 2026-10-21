@@ -98,7 +98,13 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 
 ## 2. Team Composition & Roles
 * Maghdie Petersen (230600204): Full-Stack Developer
-  - 
+  - Responsibilities: MySQL Database Architecture, Authorisation & Security Layer, Agile Backlog Maintenance, Adding Functionalities.
+* Development Team Members:
+  - Front-End Developers: UI Component Design, Vercel Deployment, Client-Side Caching.
+  - Quality Assurance & Documentation: Sprint Logbook Audits, User Story Acceptance Testing.
+
+
+ 
 
 
 
