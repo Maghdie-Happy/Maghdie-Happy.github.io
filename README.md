@@ -87,6 +87,13 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 ---
 
+## 1. Agile Team Charter
 
+### 1.1 Evidence
+
+```markdown
+# Agile Team Charter: Connectly Development Team
+
+## 1. Shared Vision & Purpose
 
 
