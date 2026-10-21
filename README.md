@@ -77,10 +77,10 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 # Connectly - Belhar Community Job Marketplace 
 ## Project Presentation 3 (PRP372S) - Assessment 2: GitHub Portfolio
-**Student Full Name: **Maghdie Petersen
-**Student ID: **230600204
-**Course/Subject: **Diploma in Information Communication Technology (Applications Development) - Project Presentation 3
-**Institution: **Cape Peninsula University of Technology (CPUT)
+**Student Full Name:** Maghdie Petersen
+**Student ID:** 230600204
+**Course/Subject:** Diploma in Information Communication Technology (Applications Development) - Project Presentation 3
+**Institution:** Cape Peninsula University of Technology (CPUT)
 **: **
 **: **
 **: **
