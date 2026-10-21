@@ -95,3 +95,10 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 ## 1. Shared Vision & Purpose
 To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-local community job marketplace designed specifically for Belhar, Cape Town, inhabitants and household employers. Through direct hiring, low data footprint views, and complete compliance with South African data privacy rules(POPIA), the platform closes the gap between local job searchers and household employers.
+
+## 2. Team Composition & Roles
+* Maghdie Petersen (230600204): Full-Stack Developer
+  - 
+
+
+
