@@ -109,6 +109,18 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 * Resource Efficiency: For low-end Android mobile devices running on 3G/4G networks, codebases and API queries need to be optimized.
 * Collaboration & Respect: Constructive peer review when evaluating GitHub Pull Requests (PRs).
 
+## 4. Operational Boundaries & Working Agreements
+* Daily Stand-ups: Asynchronous updates must be submitted by 9 AM every day via WhatsApp or GitHub repository discussion threads.
+* Sprint Cadence: Monday through Sunday, one-week sprint cycles.
+* Definition of Done (DoD) :
+  1.
+  2.
+  3.
+  4.
+* :
+  -  ss
+  -  
+  
 
  
 
