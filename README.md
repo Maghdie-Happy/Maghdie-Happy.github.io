@@ -129,6 +129,7 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 When initiating the Connectly project, we collected team communication channels, role allocations, CPUT project guidelines, and initial scope requirements. We organizes these into a centralized Team Charter to establish operational boundaries and shared team accountability from day one.
   
 #### Select
+Using the Agile Framework, we selected core elements such as our Definition of Done (DoD), asynchronous daily stand-up agreements, and role allocations. These specific artifacts were chosen because distributed software teams require explicit social contracts to minimize workflow friction and establish code quality baselines.
 
 #### Reflect
 
