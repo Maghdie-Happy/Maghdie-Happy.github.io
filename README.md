@@ -146,10 +146,10 @@ Our Agile Team Charter connects directly to our project management workflow on T
 
 ## EPIC 1: User Registration, Authentication & POPIA Privacy
 ---------------------------------------------------------------------------------------------------------------------------------
-**US-01:** POPIA-Compliant User Registration
-As a Belhar Job Seeker or Household Employer,
-I want to create an account with explicit POPIA consent tracking,
-So that my personal data is legally protected and securely processed under South African regulations.
+**US-01:** POPIA-Compliant User Registration \
+As a Belhar Job Seeker or Household Employer, \
+I want to create an account with explicit POPIA consent tracking, \
+So that my personal data is legally protected and securely processed under South African regulations. \
 
 Acceptance Criteria:
 - Password must be securely hashed using salted bcrypt prior to persistence.
@@ -161,11 +161,12 @@ Atomic Technical Tasks: \
 [Task 1.2] Build RESTful POST API endpoint `/api/auth/register` handling user payload validation. \
 [Task 1.3] Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
 [Task 1.4] Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
-## EPIC 1: User Registration, Authentication & POPIA Privacy
+## EPIC 2: Job Listing Management & Geo-Matching
 ---------------------------------------------------------------------------------------------------------------------------------
-**US-01:** POPIA-Compliant User Registration
+**US-02:** POPIA-Compliant User Registration
 As a Belhar Job Seeker or Household Employer,
 I want to create an account with explicit POPIA consent tracking,
 So that my personal data is legally protected and securely processed under South African regulations.
