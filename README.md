@@ -265,8 +265,7 @@ The product backlog acts as the central engine of our Agile workflow. It links o
 Finalize frontend-backend integration, execute relational database script verification (`connectlySchema.sql`), and deploy the responsive web interface to Vercel for CPUT assessment submission.
 
 | Sprint Task Board Breakdown  | 
-| :--- |
+| :--- | :--- |
 | 🔴 **To Do** |
-| :--- | :---: |
 | [ ] | Configure GitHub Actions workflow YAML script for automated container build testing. |
 
