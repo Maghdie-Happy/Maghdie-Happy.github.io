@@ -269,4 +269,8 @@ Finalize frontend-backend integration, execute relational database script verifi
 | 🔴 **To Do** |
 | [ ] Configure GitHub Actions workflow YAML script for automated container build testing. |
 | [ ] Finalize end-to-end testing of job application state transitions (PENDING->ACCEPTED) |
+| 🟡 **In Progress** |
+| [ ] Refine Redis key caching strategy for rapid Belhar job listing lookups. |
+| [ ] Optimizing JSON API response payloads to reduce bandwidth consumption on 3G connections. |
+| 🟢 **Done** |
 
