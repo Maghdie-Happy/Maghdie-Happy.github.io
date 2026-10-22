@@ -91,7 +91,6 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 ### 1.1 Evidence
 
-```markdown 
 # Agile Team Charter: Connectly Development Team
 
 ## 1. Shared Vision & Purpose
@@ -121,7 +120,7 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 * Protocols for Communication:
   - Instant notifications on the group WhatsApp channel are crucial obtacles.
   - Trello card logs and comments on GitHub pull requests are examples of technical specifications and code reviews.
-```
+
 
 ### 1.2 Structured Reflection 
 
@@ -132,6 +131,7 @@ When initiating the Connectly project, we collected team communication channels,
 Using the Agile Framework, we selected core elements such as our Definition of Done (DoD), asynchronous daily stand-up agreements, and role allocations. These specific artifacts were chosen because distributed software teams require explicit social contracts to minimize workflow friction and establish code quality baselines.
 
 #### Reflect
+Establishing our agile Team Charter was crucial for navigating the realities of team coordination during our final-year ICT diploma project. Early in our sprint cycles, communication delays threatened to cause overlapping work and missed deliverables. By enforcing our charter-specifically requiring Trello card links and GitHub Pull Request approvals for all code modifications-we eliminated redundant effort and established clear ownership. Taking on the role of Full-Stack developer required balancing technical execution while ensuring system requirements are met on both the frontend and backend and that the database works properly without errors. The charter served as our team's anchor, ensuring that technical choices (such as our MySQL schema and mobile-first frontend) aligned with our team values and deadline constraints. 
 
 #### Connect
  
