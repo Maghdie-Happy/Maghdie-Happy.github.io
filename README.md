@@ -227,6 +227,6 @@ These user stories served as the building blocks for our Trello project board, p
 
 | **Backlog ID** | **Item Name / Description** | **System Layer** | **Priority** | **Story Points** | **Status** | 
 | :--- | :---: | :---: | :---: | :---: | ---: | 
-
+| **PBL-01** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Data Layer | Critical | 8 | Completed |
 
 
