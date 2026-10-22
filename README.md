@@ -248,10 +248,10 @@ I compiled our complete product backlog by analyzing our initial presentation br
 I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
 
 #### Reflect
-Managing and prioritizing the product backlog was a key test of effectively applying knowledge gained within this course. Given our limited development window as final-year ICT students, we had to focus on core MVP features while pushing non-critical items () to later iterations. Prioritizing PBL-01 (`connectlySchema.sql`) and PBL-02 (JWT Authentication) ensured our application foundation was stable before expanding front-end use interfaces. This disciplined approach prevented scope creep and ensured our core deliverables remained on track. 
+Managing and prioritizing the product backlog was a key test of effectively applying knowledge gained within this course. Given our limited development window as final-year ICT students, we had to focus on core MVP features while pushing non-critical items (such as third-party payment escrow integrations and advanced dispute admin portals) to later iterations. Prioritizing PBL-01 (`connectlySchema.sql`) and PBL-02 (JWT Authentication) ensured our application foundation was stable before expanding front-end use interfaces. This disciplined approach prevented scope creep and ensured our core deliverables remained on track. 
 
 #### Connect
-These user stories served as the building blocks for our Trello project board, provided the specification for our MySQL 8.0 relational schema, and guided our front-end deployment on Vercel.
+The product backlog acts as the central engine of our Agile workflow. It links our high-level architecture specification directly to our daily sprint planning, driving task execution on Trello and code commits on GitHub.  
 
 ---
 
