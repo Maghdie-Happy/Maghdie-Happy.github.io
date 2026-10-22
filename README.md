@@ -267,5 +267,6 @@ Finalize frontend-backend integration, execute relational database script verifi
 | Sprint Task Board Breakdown  | 
 | :--- |
 | 🔴 **To Do** |
-| * [ ] Configure GitHub Actions workflow YAML script for automated container build testing. |
+| :--- | :---: |
+| [ ] | Configure GitHub Actions workflow YAML script for automated container build testing. |
 
