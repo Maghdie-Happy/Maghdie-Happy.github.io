@@ -172,15 +172,15 @@ I want to post a local job listing with a specific category, budget, and street 
 So that nearby local workers can apply directly without middleman agency costs. 
 
 Acceptance Criteria:
-- .
-- Registration must require explicit true/false checking for POPIA consent.
-- System must record `popia_consent_at` timestamp in the database.
+- Job posting must link directly to a valid `employer_id` and existing `category_id`.
+- Budget can be configured as FIXED or HOURLY in South African Rand (ZAR).
+- Address details must record latitude and longitude coordinates for local geo-matching.
 
 Atomic Technical Tasks: \
-**[Task 1.1]** Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
-**[Task 1.2]** Build RESTful POST API endpoint `/api/auth/register` handling user payload validation. \
-**[Task 1.3]** Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
-**[Task 1.4]** Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
+**[Task 2.1]** Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
+**[Task 2.2]** Build RESTful POST API endpoint `/api/auth/register` handling user payload validation. \
+**[Task 2.3]** Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
+**[Task 2.4]** Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
