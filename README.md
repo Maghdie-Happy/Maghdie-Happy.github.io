@@ -229,13 +229,13 @@ These user stories served as the building blocks for our Trello project board, p
 | :--- | :---: | :---: | :---: | :---: | ---: | 
 | **PBL-01** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Data Layer | Critical | 8 | Completed |
 | **PBL-02** | JWT Authentication & RBAC Perimeter Security Middleware | Security / Gateway | Critical | 5 | Completed |
-| **PBL-03** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Security / Auth | Critical | 5 | Completed |
-| **PBL-04** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Presentation | High | 8 | Completed |
-| **PBL-05** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Application | High | 5 | Completed |
-| **PBL-06** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Data / Cache | Medium | 5 | In Progress |
-| **PBL-07** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Integration | Medium | 8 | Backlog |
-| **PBL-08** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Integration | Medium | 5 | Backlog |
-| **PBL-09** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | Admin Portal | Low | 5 | Backlog |
+| **PBL-03** | POPIA Consent Tracking & Salted Bcrypt Password Security | Security / Auth | Critical | 5 | Completed |
+| **PBL-04** | Mobile-First UI Development & Client-Side Caching Integration | Presentation | High | 8 | Completed |
+| **PBL-05** | Geo-Matching Location Query Engine for Belhar Radius Filtering | Application | High | 5 | Completed |
+| **PBL-06** | Redis In-Memory Caching Layer for Session Tokens & Hot Job Queries | Data / Cache | Medium | 5 | In Progress |
+| **PBL-07** | Integration with Regional Payment Gateways (PayFast / Ozow / SnapScan)| Integration | Medium | 8 | Backlog |
+| **PBL-08** | SMS & Push Notification Engine via Africa's Talking | Integration | Medium | 5 | Backlog |
+| **PBL-09** |  | Admin Portal | Low | 5 | Backlog |
 | **PBL-10** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | DevOps | Low | 3 | In Progress |
 
 
