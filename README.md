@@ -146,7 +146,7 @@ Our Agile Team Charter connects directly to our project management workflow on T
 
 ## EPIC 1: User Registration, Authentication & POPIA Privacy
 ---------------------------------------------------------------------------------------------------------------------------------
-US-01: POPIA-Compliant User Registration
+**US-01:** POPIA-Compliant User Registration
 As a Belhar Job Seeker or Household Employer,
 I want to create an account with explicit POPIA consent tracking,
 So that my personal data is legally protected and securely processed under South African regulations.
@@ -156,8 +156,8 @@ Acceptance Criteria:
 - Registration must require explicit true/false checking for POPIA consent.
 - System must record `popia_consent_at` timestamp in the database.
 
-Atomic Technical Tasks: 
-[Task 1.1] Design `users` 
+Atomic Technical Tasks: \
+[Task 1.1] Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
 [Task 1.2]
 [Task 1.3]
 [Task 1.4]
