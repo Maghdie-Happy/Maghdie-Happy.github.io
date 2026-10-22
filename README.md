@@ -225,7 +225,8 @@ These user stories served as the building blocks for our Trello project board, p
 
 # Connectly Prioritized Product Backlog 
 
-| Backlog ID | Item Name / Description | System Layer | Priority | Story Points | Status | 
+| **Backlog ID** | **Item Name / Description** | **System Layer** | **Priority** | **Story Points** | **Status** | 
+| :--- | :---: | :---: | :---: | :---: | ---: | 
 
 
 
