@@ -197,9 +197,9 @@ Acceptance Criteria:
 - Application state must transition cleanly from PENDING to ACCEPTED or REJECTED.
 
 Atomic Technical Tasks: \
-**[Task 3.1]** Design `job_applications` table with composite unique key constraints `(job_id, seeker_id)`. \
-**[Task 3.2]** Build POST endpoint `/api/applications/register` handling user payload validation. \
-**[Task 3.3]** Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. 
+**[Task 3.1]** Design `job_applications` table with composite unique key constraints (`job_id, seeker_id`). \
+**[Task 3.2]** Build POST endpoint `/api/applications/apply` handling instant application submission. \
+**[Task 3.3]** Optimize mobile UI views (`belhar-connect-latestt.vercel.app`) using client-side storage cache. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
