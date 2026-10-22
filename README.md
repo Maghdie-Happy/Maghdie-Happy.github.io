@@ -184,9 +184,9 @@ Atomic Technical Tasks: \
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-## EPIC 1: User Registration, Authentication & POPIA Privacy
+## EPIC 3: Job Application & Direct Candidate Matching
 ---------------------------------------------------------------------------------------------------------------------------------
-**US-01:** POPIA-Compliant User Registration \
+**US-03:** One-Click Gig Application \
 As a Belhar Job Seeker or Household Employer, \
 I want to create an account with explicit POPIA consent tracking, \
 So that my personal data is legally protected and securely processed under South African regulations. 
