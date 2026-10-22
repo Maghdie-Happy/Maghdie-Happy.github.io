@@ -215,7 +215,7 @@ We selected critical epics spanning User Authentication, POPIA Compliance, Job P
 Demonstrating broad product features into granular user stories with acceptance criteria and atomic tasks transformed our high-level vision into actionable technical deliverables. For example, writing US-01 forced us to consider South Africa's Protection of Personal Information Act (POPIA) at the database layer, leading directly to the inclusion of `popia_consent` and `popia_consent_at` fields in our `connectlySchema.sql`. Furthermore, writing US-03 from the perspective of a job seeker using a low-end android phone on a 3G network highlighted the need to minimize API payload sizes and implement client-side caching. This approach ensured that every technical task directly served a user requirement. 
 
 #### Connect
-Our Agile Team Charter connects directly to our project management workflow on Trello and our technical deployment on Vercel. The operational standards established in this charter laid the foundation for our product backlog prioritization, user story breakdown, and CI/CD automated pipeline execution.  
+These user stories served as the building blocks for our Trello project board, provided the specification for our MySQL 8.0 relational schema, and guided our front-end deployment on Vercel.
 
 ---
 
