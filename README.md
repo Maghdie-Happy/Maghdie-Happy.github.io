@@ -144,6 +144,8 @@ Our Agile Team Charter connects directly to our project management workflow on T
 
 # Connectly User Stories & Atomic Task Breakdown
 
-
+## EPIC 1: User Registration, Authentication & POPIA Privacy
+---------------------------------------------------------------------------------------------------------------------------------
+US-01: 
 
 
