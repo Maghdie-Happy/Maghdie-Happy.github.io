@@ -177,8 +177,8 @@ Acceptance Criteria:
 - Address details must record latitude and longitude coordinates for local geo-matching.
 
 Atomic Technical Tasks: \
-**[Task 2.1]** Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
-**[Task 2.2]** Build RESTful POST API endpoint `/api/auth/register` handling user payload validation. \
+**[Task 2.1]** Define `jobs` and `job_categories` relational tables with foreign key contraints in MySQL. \
+**[Task 2.2]** Build Geo-Matching radius query logic . \
 **[Task 2.3]** Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
 **[Task 2.4]** Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
 
