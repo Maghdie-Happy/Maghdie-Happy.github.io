@@ -150,6 +150,6 @@ US-01: POPIA-Compliant User Registration
 As a Belhar Job Seeker or Household Employer,
 I want to create an account with explicit POPIA consent tracking,
 So that my personal data is legally protected and securely processed under South African regulations.
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 
