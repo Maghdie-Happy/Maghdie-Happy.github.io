@@ -187,14 +187,14 @@ Atomic Technical Tasks: \
 ## EPIC 3: Job Application & Direct Candidate Matching
 ---------------------------------------------------------------------------------------------------------------------------------
 **US-03:** One-Click Gig Application \
-As a Belhar Job Seeker or Household Employer, \
-I want to create an account with explicit POPIA consent tracking, \
-So that my personal data is legally protected and securely processed under South African regulations. 
+As a Belhar Job Seeker operating a resource-constrained Android smartphone, \
+I want view available local jobs and submit an application with minimal data usage, \
+So that I can secure employment quickly without consuming expensive cellular data packages. 
 
 Acceptance Criteria:
-- Password must be securely hashed using salted bcrypt prior to persistence.
-- Registration must require explicit true/false checking for POPIA consent.
-- System must record `popia_consent_at` timestamp in the database.
+- Mobile interface must render lightweight JSON payloads.
+- Prevent duplicate job applications using database unique constraints (`uq_job_seeker`).
+- Application state must transition cleanly from PENDING to ACCEPTED or REJECTED.
 
 Atomic Technical Tasks: \
 **[Task 1.1]** Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
