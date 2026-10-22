@@ -134,7 +134,7 @@ Using the Agile Framework, we selected core elements such as our Definition of D
 Establishing our agile Team Charter was crucial for navigating the realities of team coordination during our final-year ICT diploma project. Early in our sprint cycles, communication delays threatened to cause overlapping work and missed deliverables. By enforcing our charter-specifically requiring Trello card links and GitHub Pull Request approvals for all code modifications-we eliminated redundant effort and established clear ownership. Taking on the role of Full-Stack developer required balancing technical execution while ensuring system requirements are met on both the frontend and backend and that the database works properly without errors. The charter served as our team's anchor, ensuring that technical choices (such as our MySQL schema and mobile-first frontend) aligned with our team values and deadline constraints. 
 
 #### Connect
- 
+Our Agile Team Charter connects directly to our project management workflow on Trello and our technical deployment on Vercel. The operational standards established in this charter laid the foundation for our product backlog prioritization, user story breakdown, and CI/CD automated pipeline execution.  
 
 
 
