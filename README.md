@@ -276,8 +276,8 @@ Finalize frontend-backend integration, execute relational database script verifi
 |  |
 | 🟢 **Done** |
 | [x] Authored and executed MySQL 8.0 schema creation script (`connectlySchema.sql`) including foreign key cascades and POPIA flags. |
-| [x] Authored and executed MySQL 8.0 schema creation script (`connectlySchema.sql`) including foreign key cascades and POPIA flags. |
-| [x] Authored and executed MySQL 8.0 schema creation script (`connectlySchema.sql`) including foreign key cascades and POPIA flags. |
-| [x] Authored and executed MySQL 8.0 schema creation script (`connectlySchema.sql`) including foreign key cascades and POPIA flags. |
-| [x] Authored and executed MySQL 8.0 schema creation script (`connectlySchema.sql`) including foreign key cascades and POPIA flags. |
+| [x] Developed responsive front-end interface and successfully deployed live app to Vercel: https://belhar-connect-hublatestt.vercel.app/ |
+| [x] Established Trello Kanban workflow board with complete task cards and sprint tracks. |
+| [x] Designed mobile interactive UI wireframes and linked Figma prototype: https://www.figma.com/design/xETbhrqF4Ou7xrWk3oIhev/PFP-Design?node-id=0-1&t=M88xVWRANfbpLcZh-1<img width="1473" height="62" alt="image" src="https://github.com/user-attachments/assets/7a825660-0965-4376-abca-e2f37bb982d2" /> |
+| [x] Authored system. |
 
