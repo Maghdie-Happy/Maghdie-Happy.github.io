@@ -178,9 +178,9 @@ Acceptance Criteria:
 
 Atomic Technical Tasks: \
 **[Task 2.1]** Define `jobs` and `job_categories` relational tables with foreign key contraints in MySQL. \
-**[Task 2.2]** Build Geo-Matching radius query logic . \
-**[Task 2.3]** Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
-**[Task 2.4]** Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
+**[Task 2.2]** Build Geo-Matching radius query logic to filter active listings within Belhar. \
+**[Task 2.3]** Develop front-end job creation portal UI and connect to RESTful POST `/api/jobs` endpoint. \
+**[Task 2.4]** Implement client-side caching mechanism for static job category drop-down listings.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
