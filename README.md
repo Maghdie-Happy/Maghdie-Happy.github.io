@@ -203,6 +203,21 @@ Atomic Technical Tasks: \
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
+### 2.2 Structured Reflection 
+
+#### Collect
+To establish our system user stories, we collected functional requirements from our project presentation brief, stakeholder personas (Belhar homeowners, parents, elderly residents, and local job seekers), and system architecture requirements. 
+  
+#### Select
+We selected critical epics spanning User Authentication, POPIA Compliance, Job Posting, and Geo-Matching. These specific user stories were selected because they capture the core functional value of Connectly-providing a hyper-local marketplace that saves user cellular data while ensuring strict regulatory compliance.  
+
+#### Reflect
+Demonstrating broad product features into granular user stories with acceptance criteria and atomic tasks transformed our high-level vision into actionable technical deliverables. For example, writing US-01 forced us to consider South Africa's Protection of Personal Information Act (POPIA) at the database layer, leading directly to the inclusion of `popia_consent` and `popia_consent_at` fields in our ``.
+
+#### Connect
+Our Agile Team Charter connects directly to our project management workflow on Trello and our technical deployment on Vercel. The operational standards established in this charter laid the foundation for our product backlog prioritization, user story breakdown, and CI/CD automated pipeline execution.  
+
+---
 
 
 
