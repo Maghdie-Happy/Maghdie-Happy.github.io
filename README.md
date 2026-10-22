@@ -259,10 +259,12 @@ The product backlog acts as the central engine of our Agile workflow. It links o
 
 ### 4.1 Evidence 
 
-| Active Sprint Backlog - Sprint 4: Core System Integration & Deployment | 
+# Active Sprint Backlog - Sprint 4: Core System Integration & Deployment 
+
+## Sprint Goal
+Finalize frontend-backend integration, execute relational database script verification (`connectlySchema.sql`), and deploy the responsive web interface to Vercel for CPUT assessment submission.
+
+| Sprint Task Board Breakdown  | 
 | :--- |
-| **Sprint Goal** |
-| Finalize frontend-backend integration, execute relational database script verification (`connectlySchema.sql`), and deploy the responsive web interface to Vercel for CPUT assessment submission. |
-
-
+| 🔴 **To Do** |
 
