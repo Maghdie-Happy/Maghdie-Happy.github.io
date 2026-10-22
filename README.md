@@ -75,6 +75,7 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 
 **Result:** Successfully launching the live portfolio felt like a significant achievement, akin to finishing a race after hours of intensive effort. This experience reinforced a critical development principle: the importance of frequent testing and verifying work during the deployment phase. I learned that a deep understanding of the language is essential to avoid struggle and that perseverance is the best tool for overcoming technical hurdles. The final result is a professional, accessible URL that I can now confidently share with potential employers.
 
+
 # Connectly - Belhar Community Job Marketplace 
 ## Project Presentation 3 (PRP372S) - Assessment 2: GitHub Portfolio 
 **Student Full Name:** Maghdie Petersen \
@@ -125,10 +126,10 @@ To design, implement, and manage "Connectly"-a low-bandwidth, secure, hyper-loca
 ### 1.2 Structured Reflection 
 
 #### Collect
-When initiating the Connectly project, we collected team communication channels, role allocations, CPUT project guidelines, and initial scope requirements. We organizes these into a centralized Team Charter to establish operational boundaries and shared team accountability from day one.
+When initiating the Connectly project, I collected team communication channels, role allocations, CPUT project guidelines, and initial scope requirements. I organized these into a centralized Team Charter to establish operational boundaries and shared team accountability from day one.
   
 #### Select
-Using the Agile Framework, we selected core elements such as our Definition of Done (DoD), asynchronous daily stand-up agreements, and role allocations. These specific artifacts were chosen because distributed software teams require explicit social contracts to minimize workflow friction and establish code quality baselines.
+Using the Agile Framework, I selected core elements such as our Definition of Done (DoD), asynchronous daily stand-up agreements, and role allocations. These specific artifacts were chosen because distributed software teams require explicit social contracts to minimize workflow friction and establish code quality baselines.
 
 #### Reflect
 Establishing our agile Team Charter was crucial for navigating the realities of team coordination during our final-year ICT diploma project. Early in our sprint cycles, communication delays threatened to cause overlapping work and missed deliverables. By enforcing our charter-specifically requiring Trello card links and GitHub Pull Request approvals for all code modifications-we eliminated redundant effort and established clear ownership. Taking on the role of Full-Stack developer required balancing technical execution while ensuring system requirements are met on both the frontend and backend and that the database works properly without errors. The charter served as our team's anchor, ensuring that technical choices (such as our MySQL schema and mobile-first frontend) aligned with our team values and deadline constraints. 
@@ -209,7 +210,7 @@ Atomic Technical Tasks: \
 To establish our system user stories, we collected functional requirements from our project presentation brief, stakeholder personas (Belhar homeowners, parents, elderly residents, and local job seekers), and system architecture requirements. 
   
 #### Select
-We selected critical epics spanning User Authentication, POPIA Compliance, Job Posting, and Geo-Matching. These specific user stories were selected because they capture the core functional value of Connectly-providing a hyper-local marketplace that saves user cellular data while ensuring strict regulatory compliance.  
+I selected critical epics spanning User Authentication, POPIA Compliance, Job Posting, and Geo-Matching. These specific user stories were selected because they capture the core functional value of Connectly-providing a hyper-local marketplace that saves user cellular data while ensuring strict regulatory compliance.  
 
 #### Reflect
 Demonstrating broad product features into granular user stories with acceptance criteria and atomic tasks transformed our high-level vision into actionable technical deliverables. For example, writing US-01 forced us to consider South Africa's Protection of Personal Information Act (POPIA) at the database layer, leading directly to the inclusion of `popia_consent` and `popia_consent_at` fields in our `connectlySchema.sql`. Furthermore, writing US-03 from the perspective of a job seeker using a low-end android phone on a 3G network highlighted the need to minimize API payload sizes and implement client-side caching. This approach ensured that every technical task directly served a user requirement. 
@@ -241,13 +242,13 @@ These user stories served as the building blocks for our Trello project board, p
 ### 3.2 Structured Reflection 
 
 #### Collect
-To establish our system user stories, we collected functional requirements from our project presentation brief, stakeholder personas (Belhar homeowners, parents, elderly residents, and local job seekers), and system architecture requirements. 
+I compiled our complete product backlog by analyzing our initial presentation brief, system architecture specifications, Trello board cards, and database relational models. 
   
 #### Select
-We selected critical epics spanning User Authentication, POPIA Compliance, Job Posting, and Geo-Matching. These specific user stories were selected because they capture the core functional value of Connectly-providing a hyper-local marketplace that saves user cellular data while ensuring strict regulatory compliance.  
+I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
 
 #### Reflect
-Demonstrating broad product features into granular user stories with acceptance criteria and atomic tasks transformed our high-level vision into actionable technical deliverables. For example, writing US-01 forced us to consider South Africa's Protection of Personal Information Act (POPIA) at the database layer, leading directly to the inclusion of `popia_consent` and `popia_consent_at` fields in our `connectlySchema.sql`. Furthermore, writing US-03 from the perspective of a job seeker using a low-end android phone on a 3G network highlighted the need to minimize API payload sizes and implement client-side caching. This approach ensured that every technical task directly served a user requirement. 
+Managing and prioritizing the product backlog was a key test of effectively applying knowledge gained within this course. Given our limited development window as final-year ICT students, we had to focus on core MVP features while pushing non-critical items () to later iterations. Prioritizing PBL-01 (`connectlySchema.sql`) and PBL-02 (JWT Authentication) ensured our application foundation was stable before expanding front-end use interfaces. This disciplined approach prevented scope creep and ensured our core deliverables remained on track. 
 
 #### Connect
 These user stories served as the building blocks for our Trello project board, provided the specification for our MySQL 8.0 relational schema, and guided our front-end deployment on Vercel.
