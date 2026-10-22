@@ -235,7 +235,7 @@ These user stories served as the building blocks for our Trello project board, p
 | **PBL-06** | Redis In-Memory Caching Layer for Session Tokens & Hot Job Queries | Data / Cache | Medium | 5 | In Progress |
 | **PBL-07** | Integration with Regional Payment Gateways (PayFast / Ozow / SnapScan)| Integration | Medium | 8 | Backlog |
 | **PBL-08** | SMS & Push Notification Engine via Africa's Talking | Integration | Medium | 5 | Backlog |
-| **PBL-09** |  | Admin Portal | Low | 5 | Backlog |
-| **PBL-10** | MySQL 8.0 Relational Database Schema (`users`, `jobs`, `applications`, `payments`) | DevOps | Low | 3 | In Progress |
+| **PBL-09** | System Administrator Panel for Dispute Resolution & Analytics | Admin Portal | Low | 5 | Backlog |
+| **PBL-10** | Automated CI/CD Pipeline Configuration using GitHub Actions & Docker | DevOps | Low | 3 | In Progress |
 
 
