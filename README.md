@@ -238,4 +238,20 @@ These user stories served as the building blocks for our Trello project board, p
 | **PBL-09** | System Administrator Panel for Dispute Resolution & Analytics | Admin Portal | Low | 5 | Backlog |
 | **PBL-10** | Automated CI/CD Pipeline Configuration using GitHub Actions & Docker | DevOps | Low | 3 | In Progress |
 
+### 3.2 Structured Reflection 
+
+#### Collect
+To establish our system user stories, we collected functional requirements from our project presentation brief, stakeholder personas (Belhar homeowners, parents, elderly residents, and local job seekers), and system architecture requirements. 
+  
+#### Select
+We selected critical epics spanning User Authentication, POPIA Compliance, Job Posting, and Geo-Matching. These specific user stories were selected because they capture the core functional value of Connectly-providing a hyper-local marketplace that saves user cellular data while ensuring strict regulatory compliance.  
+
+#### Reflect
+Demonstrating broad product features into granular user stories with acceptance criteria and atomic tasks transformed our high-level vision into actionable technical deliverables. For example, writing US-01 forced us to consider South Africa's Protection of Personal Information Act (POPIA) at the database layer, leading directly to the inclusion of `popia_consent` and `popia_consent_at` fields in our `connectlySchema.sql`. Furthermore, writing US-03 from the perspective of a job seeker using a low-end android phone on a 3G network highlighted the need to minimize API payload sizes and implement client-side caching. This approach ensured that every technical task directly served a user requirement. 
+
+#### Connect
+These user stories served as the building blocks for our Trello project board, provided the specification for our MySQL 8.0 relational schema, and guided our front-end deployment on Vercel.
+
+---
+
 
