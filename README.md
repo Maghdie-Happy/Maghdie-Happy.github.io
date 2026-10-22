@@ -136,5 +136,7 @@ Establishing our agile Team Charter was crucial for navigating the realities of 
 #### Connect
 Our Agile Team Charter connects directly to our project management workflow on Trello and our technical deployment on Vercel. The operational standards established in this charter laid the foundation for our product backlog prioritization, user story breakdown, and CI/CD automated pipeline execution.  
 
+---
+
 
 
