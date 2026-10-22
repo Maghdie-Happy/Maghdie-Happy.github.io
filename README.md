@@ -138,6 +138,12 @@ Our Agile Team Charter connects directly to our project management workflow on T
 
 ---
 
+## 2. User Stories and Tasks 
+
+### 2.1 Evidence 
+
+# Connectly User Stories & Atomic Task Breakdown
+
 
 
 
