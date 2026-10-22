@@ -146,6 +146,10 @@ Our Agile Team Charter connects directly to our project management workflow on T
 
 ## EPIC 1: User Registration, Authentication & POPIA Privacy
 ---------------------------------------------------------------------------------------------------------------------------------
-US-01: 
+US-01: POPIA-Compliant User Registration
+As a Belhar Job Seeker or Household Employer,
+I want to create an account with explicit POPIA consent tracking,
+So that my personal data is legally protected and securely processed under South African regulations.
+
 
 
