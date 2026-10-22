@@ -160,7 +160,7 @@ Atomic Technical Tasks: \
 [Task 1.1] Design `users` table schema in MySQL 8.0 containing `popia_consent` and `popia_consent_at` fields. \
 [Task 1.2] Build RESTful POST API endpoint `/api/auth/register` handling user payload validation. \
 [Task 1.3] Implement bcrypt salted password hashing algorithm inside the Auth & Identity Service. \
-[Task 1.4] Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox. \
+[Task 1.4] Construct front-end user registration form interface in HTML5/JS with mandatory POPIA checkbox.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 
