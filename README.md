@@ -239,6 +239,10 @@ These user stories served as the building blocks for our Trello project board, p
 | **PBL-09** | System Administrator Panel for Dispute Resolution & Analytics | Admin Portal | Low | 5 | Backlog |
 | **PBL-10** | Automated CI/CD Pipeline Configuration using GitHub Actions & Docker | DevOps | Low | 3 | In Progress |
 
+**Images of the Product Backlog as on Trello**  
+[📄 View images of Product Backlog on Trello)](./Trello%20board%20Images.docx)
+This is a more detailed version of the product backlog.
+
 ### 3.2 Structured Reflection 
 
 #### Collect
