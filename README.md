@@ -85,6 +85,7 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 **Live Application URL:** [https://belhar-connect-hublatestt.vercel.app/](https://belhar-connect-hublatestt.vercel.app/)  \
 **GitHub Portfolio URL:** [https://Maghdie-Happy.github.io](https://Maghdie-Happy.github.io) \
 **Trello Project Board:** [https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace) 
+**Database File:** (./connectlySchema.sql)
 
 ---
 
@@ -240,8 +241,10 @@ These user stories served as the building blocks for our Trello project board, p
 | **PBL-10** | Automated CI/CD Pipeline Configuration using GitHub Actions & Docker | DevOps | Low | 3 | In Progress |
 
 **Images of the Product Backlog as on Trello**  
-[📄 View images of Product Backlog on Trello)](./Trello%20board%20Images.docx)
-This is a more detailed version of the product backlog.
+[📄 View images of Product Backlog on Trello](./Trello%20board%20Images.docx)  
+This is a more detailed version of the product backlog.  
+This link takes you to the Trello board which shows the Product backlog in full detail:  
+[https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace)
 
 ### 3.2 Structured Reflection 
 
@@ -285,6 +288,8 @@ Finalize frontend-backend integration, execute relational database script verifi
 | [x] Designed mobile interactive UI wireframes and linked Figma prototype: https://www.figma.com/design/xETbhrqF4Ou7xrWk3oIhev/PFP-Design?node-id=0-1&t=M88xVWRANfbpLcZh-1 |
 | [x] Authored system architecture specification targeting R745/month operational cloud deployment cap. |
 
+This link takes you to the Trello board which shows the sprint backlog in full detail:  
+[https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace)
 
 ### 4.2 Structured Reflection 
 
@@ -334,7 +339,26 @@ The Agile logbook ties together all elements of this e-portfolio. It documents t
 
 ---
 
-## 6. Harvard References
+## 6. Missing / Extra Evidence and Documents for Substantiation 
+  
+**Connectly Solution Architectue by Me**  
+[Solution Architecture](./Connectly_Solution_Architecture.pdf) 
+
+  
+**Connectly Sprint Tracker Used by the team**  
+[Sprint Tracker](./Connectly_Sprint_Tracker.xlsx) 
+
+  
+**Powerpoint Presentation I created for the Group**  
+[Presentation](./Project%20Presentation%203%20Presentation.pptx) 
+
+  
+**Wireframes made for the website**  
+[Wireframes](./Wireframes.docx)
+
+---
+
+## 7. Harvard References
 
 1. Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Thomas, D. and Jeffries, R., 2001. *Manifesto for Agile Software Development*. Available at: <https://agilemanifesto.org/> [Accessed 20 October 2026].
 2. Cape Peninsula University of Technology (CPUT), 2026. *Project Presentation 3 (PRP370S/PRP371S/PRP372S) Assessment 2 Specification Brief*. Cape Town: CPUT Faculty of Informatics and Design.
