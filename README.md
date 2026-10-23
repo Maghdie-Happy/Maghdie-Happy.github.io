@@ -297,3 +297,18 @@ Executing this sprint highlighted the importance of sprint focus and iterative d
 Our Sprint Backlog connects our product roadmap to our real-time software deliverables. It demonstrates how backlogged user stories are transformed into live, working software deployed on Vercel and version-controlled on GitHub.      
 
 ---
+
+## 5. Agile Logbook
+
+### 5.1 Evidence 
+
+# Connectly Project Agile Development Logbook
+**Author / Developer:** Maghdie Petersen (Student ID: 230600204)
+**Role:** Full-Stack Developer 
+
+---
+
+| Log Entry | Log Entry Name / Description | Date | Sprint | Activities Completed | Challenges and Blockers | Extra Info |
+| :---: | :---: | ---: | :---: | :--- | :--- | :--- |
+| :---: | :---: | ---: | :---: | :--- | :--- | :--- |
+
