@@ -291,7 +291,7 @@ I collected active work items, open GitHub issues, pending Trello cards, and dep
 I selected tasks critical to achieving our Sprint Goal: database script execution (`connectlySchema.sql`), live front-end Vercel deployment, and mobile-first payload optimization. These items where chosen because they directly satisfy the criteria evaluated in Project Presentation 3.    
 
 #### Reflect
-Executing this sprint highlighted the importance of sprint focus and iterative deployment. During sprint execution, we encountered protentional performance bottlenecks when rendering job listings on mobile devices 
+Executing this sprint highlighted the importance of sprint focus and iterative deployment. During sprint execution, we encountered protentional performance bottlenecks when rendering job listings on mobile devices. By focusing on our sprint goal, we addressed this immediately by refining our SQL queries-adding composite indexes like `idx_jobs_status_category`-and utilizing client-side caching. This maintained fast loading speeds without breaking our sprint commitments. Tracking our sprint backlog on Trello provided total transparency into team velocity and work completion.  
 
 #### Connect
 Our Sprint Backlog connects our product roadmap to our real-time software deliverables. It demonstrates how backlogged user stories are transformed into live, working software deployed on Vercel and version-controlled on GitHub.      
