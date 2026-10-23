@@ -303,7 +303,7 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 ### 5.1 Evidence 
 
 # Connectly Project Agile Development Logbook
-**Author / Developer:** Maghdie Petersen (Student ID: 230600204) \  
+**Author / Developer:** Maghdie Petersen (Student ID: 230600204)       
 **Role:** Full-Stack Developer 
 
 ---
@@ -323,10 +323,10 @@ I compiled our complete product backlog by analyzing our initial presentation br
 I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
 
 #### Reflect
-Managing and prioritizing the product backlog was a key test of effectively applying knowledge gained within this course. Given our limited development window as final-year ICT students, we had to focus on core MVP features while pushing non-critical items (such as third-party payment escrow integrations and advanced dispute admin portals) to later iterations. Prioritizing PBL-01 (`connectlySchema.sql`) and PBL-02 (JWT Authentication) ensured our application foundation was stable before expanding front-end use interfaces. This disciplined approach prevented scope creep and ensured our core deliverables remained on track. 
+
 
 #### Connect
-The product backlog acts as the central engine of our Agile workflow. It links our high-level architecture specification directly to our daily sprint planning, driving task execution on Trello and code commits on GitHub.  
+The Agile logbook ties together all elements of this e-portfolio. It documents the daily execution behind our Team Charter, User Stories, Product Backlog, Sprint Backlog, providing a complete audit trial of our project journey for academic and professional evaluation.
 
 ---
 
