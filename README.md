@@ -323,7 +323,7 @@ I compiled our complete product backlog by analyzing our initial presentation br
 I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
 
 #### Reflect
-
+Maintaining an active Agile Logbook throughout the project provided invaluable documentation of our development process. It forced me to systematically record technical decisions, underlying rationale, and resolution strategies for complex problems-such as handling POPIA compliance at the database layer and resolving layout shift bugs during mobile deployment. Recording these daily entries provided clear proof of learning and development, showing how theoretical requirements were systematically translated into system working artifacts. 
 
 #### Connect
 The Agile logbook ties together all elements of this e-portfolio. It documents the daily execution behind our Team Charter, User Stories, Product Backlog, Sprint Backlog, providing a complete audit trial of our project journey for academic and professional evaluation.
