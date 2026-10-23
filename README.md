@@ -281,3 +281,19 @@ Finalize frontend-backend integration, execute relational database script verifi
 | [x] Designed mobile interactive UI wireframes and linked Figma prototype: https://www.figma.com/design/xETbhrqF4Ou7xrWk3oIhev/PFP-Design?node-id=0-1&t=M88xVWRANfbpLcZh-1 |
 | [x] Authored system architecture specification targeting R745/month operational cloud deployment cap. |
 
+
+### 4.2 Structured Reflection 
+
+#### Collect
+I collected active work items, open GitHub issues, pending Trello cards, and deployment logs to assemble our Sprint Backlog for the core system integration sprint.
+  
+#### Select
+I selected tasks critical to achieving our Sprint Goal: database script execution (`connectlySchema.sql`), live front-end Vercel deployment, and mobile-first payload optimization. These items where chosen because they directly satisfy the criteria evaluated in Project Presentation 3.    
+
+#### Reflect
+Executing this sprint highlighted the importance of sprint focus and iterative deployment. During sprint execution, we encountered protentional performance bottlenecks when rendering job listings on mobile devices 
+
+#### Connect
+Our Sprint Backlog connects our product roadmap to our real-time software deliverables. It demonstrates how backlogged user stories are transformed into live, working software deployed on Vercel and version-controlled on GitHub.      
+
+---
