@@ -303,7 +303,7 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 ### 5.1 Evidence 
 
 # Connectly Project Agile Development Logbook
-**Author / Developer:** Maghdie Petersen (Student ID: 230600204)
+**Author / Developer:** Maghdie Petersen (Student ID: 230600204) \  
 **Role:** Full-Stack Developer 
 
 ---
@@ -313,4 +313,33 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 | **1** | **Project Initiation & Architecture Modeling** | 12 August 2026 | 1 | 1. Convened initial project team alignment meeting. <br> 2. Defined system target boundary(Belhar community job marketplace). <br> 3. Modeled resource-constrained 4-tier solution architecture targeting R745/month cloud operating costs. <br> 4. Created Trello Kanban project management board and initialized GitHub repository. <br> | Initial idea lacked a viable profit model. Pivoted to a direct hiring model based on consultation feedback. | **Standup Summary:** Agreed on project scope and assigned initial research roles. |
 | **2** | **Relational Database Architecture & POPIA Compliance Scripting** | 17 September 2026 (03:18 AM) | 3 | 1. Authored complete MySQL 8.0 database schema (`connectlySchema.sql`). <br>  2. Implemented `user`, `job_categories`, `jobs`, `job_applications`, `messages`, `payments`, `ratings`, and `audit_logs` tables. <br>  3. Integrated explicit POPIA compliance tracking fields (`popia_consent`, `popia_consent_at`) and bcrypt password security. <br>  4. Added composite performance indexes (`idx_jobs_status_category`, `idx_messages-conversation`). <br> | Ensuring cascade delete actions did not orphan payment audit trial records. Resolved by setting foreign keys to `ON DELETE RESTRICT` or `SET NULL` on audit tables. | **Commit Hash:** `a8f3b12` - "Add complete MySQL schema with POPIA consent and performance indexis." |
 | **3** | **Front-End Web Application Deployment & Vercel Pipeline Integration** | 08 October 2026 | Sprint 4 | 1. Developed responsive web application interface using HTML5, CSS3, and JavaScript.  <br> 2. Connected repository to Vercel continuous deployment pipeline. <br> 3. Successfully published live platform build at: https://belhar-connect-hublatestt.vercel.app/ <br> 4. Validated mobile view responsiveness and verified client-side UI caching performance. <br> | Layout shift issues on smaller Android screen breakpoints. Resolved by refactoring CSS grid layouts and media queries. | **Live Deployment Verification:** Operational and publicly accessible.|
+
+### 5.2 Structured Reflection 
+
+#### Collect
+I compiled our complete product backlog by analyzing our initial presentation brief, system architecture specifications, Trello board cards, and database relational models. 
+  
+#### Select
+I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
+
+#### Reflect
+Managing and prioritizing the product backlog was a key test of effectively applying knowledge gained within this course. Given our limited development window as final-year ICT students, we had to focus on core MVP features while pushing non-critical items (such as third-party payment escrow integrations and advanced dispute admin portals) to later iterations. Prioritizing PBL-01 (`connectlySchema.sql`) and PBL-02 (JWT Authentication) ensured our application foundation was stable before expanding front-end use interfaces. This disciplined approach prevented scope creep and ensured our core deliverables remained on track. 
+
+#### Connect
+The product backlog acts as the central engine of our Agile workflow. It links our high-level architecture specification directly to our daily sprint planning, driving task execution on Trello and code commits on GitHub.  
+
+---
+
+## 6. Harvard References
+
+1. Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Thomas, D. and Jeffries, R., 2001. *Manifesto for Agile Software Development*. Available at: <https://agilemanifesto.org/> [Accessed 20 October 2026].
+2. Cape Peninsula University of Technology (CPUT), 2026. *Project Presentation 3 (PRP370S/PRP371S/PRP372S) Assessment 2 Specification Brief*. Cape Town: CPUT Faculty of Informatics and Design.
+3. Fowler, M., 2018. *Refactoring: Improving the Design of Existing Code*. 2nd ed. Boston: Addison-Wesley.
+4. Group 8 CPUT, 2026. *Connectly: Belhar Community Job Marketplace Presentation Slides*. Cape Town: Cape Peninsula University of Technology.
+5. Oracle Corporation, 2024. *MySQL 8.0 Reference Manual: Database Optimization and Performance Indexing*. Available at: <https://dev.mysql.com/doc/refman/8.0/en/> [Accessed 20 October 2026].
+6. Petersen, M., 2026a. *Connectly Relational Database Schema Script (connectlySchema.sql)*. Cape Town: CPUT Capstone Project Repository.
+7. Petersen, M., 2026b. *Connectly System Architecture Specification & Technical Defense Manual*. Cape Town: CPUT Capstone Examination Documentation.
+8. Republic of South Africa, 2013. *Protection of Personal Information Act 4 of 2013 (POPIA)*. Government Gazette, 581(37067). Pretoria: Government Printer.
+9. Rubin, K.S., 2012. *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Upper Saddle River: Addison-Wesley.
+10. Vercel Inc., 2026. *Connectly Belhar Community Job Marketplace Live Deployment Engine*. Available at: <https://belhar-connect-hublatestt.vercel.app/> [Accessed 21 October 2026].
 
