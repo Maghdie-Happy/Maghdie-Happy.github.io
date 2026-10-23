@@ -310,7 +310,7 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 
 | Log Entry | Log Entry Name / Description | Date | Sprint | Activities Completed | Challenges and Blockers | Extra Info |
 | :---: | :---: | ---: | :---: | :--- | :--- | :--- |
-| 1 | Project Initiation & Architecture Modeling | 12 August 2026 | 1 | 1. Convened initial project team alignment meeting. <br> 2. Defined system target boundary(Belhar community job marketplace). <br> 3. Modeled resource-constrained 4-tier solution architecture targeting R745/month cloud operating costs. <br> 4. Created Trello Kanban project management board and initialized GitHub repository. | :--- | :--- |
+| 1 | Project Initiation & Architecture Modeling | 12 August 2026 | 1 | 1. Convened initial project team alignment meeting. <br> 2. Defined system target boundary(Belhar community job marketplace). <br> 3. Modeled resource-constrained 4-tier solution architecture targeting R745/month cloud operating costs. <br> 4. Created Trello Kanban project management board and initialized GitHub repository. | Initial idea lacked a viable profit model. Pivoted to a direct hiring model based on consultation feedback. | Standup Summary: <br> Agreed on project scope and assigned initial research roles. |
 | 2 | :---: | ---: | :---: | :--- | :--- | :--- |
 | 3 | :---: | ---: | :---: | :--- | :--- | :--- |
 
