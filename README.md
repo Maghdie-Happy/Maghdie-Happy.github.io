@@ -85,7 +85,6 @@ This is an video to tell you a bit about myself and to showcase my skills in an 
 **Live Application URL:** [https://belhar-connect-hublatestt.vercel.app/](https://belhar-connect-hublatestt.vercel.app/)  \
 **GitHub Portfolio URL:** [https://Maghdie-Happy.github.io](https://Maghdie-Happy.github.io) \
 **Trello Project Board:** [https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace) 
-**Database File:** (./connectlySchema.sql)
 
 ---
 
@@ -242,7 +241,8 @@ These user stories served as the building blocks for our Trello project board, p
 
 **Images of the Product Backlog as on Trello**  
 [📄 View images of Product Backlog on Trello](./Trello%20board%20Images.docx)  
-This is a more detailed version of the product backlog.  
+This is a more detailed version of the product backlog. 
+
 This link takes you to the Trello board which shows the Product backlog in full detail:  
 [https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace](https://trello.com/b/zpUv80Sx/connectly-belhar-community-job-marketplace)
 
@@ -356,6 +356,9 @@ The Agile logbook ties together all elements of this e-portfolio. It documents t
 **Wireframes made for the website**  
 [Wireframes](./Wireframes.docx)
 
+**Database I made for the website**  
+[connectlySchema](./connectlySchema.sql)
+
 ---
 
 ## 7. Harvard References
@@ -370,4 +373,6 @@ The Agile logbook ties together all elements of this e-portfolio. It documents t
 8. Republic of South Africa, 2013. *Protection of Personal Information Act 4 of 2013 (POPIA)*. Government Gazette, 581(37067). Pretoria: Government Printer.
 9. Rubin, K.S., 2012. *Essential Scrum: A Practical Guide to the Most Popular Agile Process*. Upper Saddle River: Addison-Wesley.
 10. Vercel Inc., 2026. *Connectly Belhar Community Job Marketplace Live Deployment Engine*. Available at: <https://belhar-connect-hublatestt.vercel.app/> [Accessed 21 October 2026].
+
+---
 
