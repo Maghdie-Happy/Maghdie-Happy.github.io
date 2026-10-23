@@ -320,10 +320,10 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 I compiled our complete product backlog by analyzing our initial presentation brief, system architecture specifications, Trello board cards, and database relational models. 
   
 #### Select
-I organized and prioritized these backlog items using the MoSCoW prioritization method (Must have, Should have, Could have, Would like to have) and story point estimation. Items directly impacting user authentication, data privacy, core database operations, and mobile user interfaces were selected for immediate MVP implementation.    
+I selected three key log entries covering project initiation, database implementation (`connectlySchema.sql`), and live Vercel deployment. These entries best highlight my ongoing contributions as full-stack developer across the project lifecycle.    
 
 #### Reflect
-Maintaining an active Agile Logbook throughout the project provided invaluable documentation of our development process. It forced me to systematically record technical decisions, underlying rationale, and resolution strategies for complex problems-such as handling POPIA compliance at the database layer and resolving layout shift bugs during mobile deployment. Recording these daily entries provided clear proof of learning and development, showing how theoretical requirements were systematically translated into system working artifacts. 
+Maintaining an active Agile Logbook throughout the project provided invaluable documentation of our development process. It forced me to systematically record technical decisions, underlying rationale, and resolution strategies for complex problems-such as handling POPIA compliance at the database layer and resolving layout shift bugs during mobile deployment. Recording these daily entries provided clear proof of learning and development, showing how theoretical requirements were systematically translated into working software artifacts. 
 
 #### Connect
 The Agile logbook ties together all elements of this e-portfolio. It documents the daily execution behind our Team Charter, User Stories, Product Backlog, Sprint Backlog, providing a complete audit trial of our project journey for academic and professional evaluation.
