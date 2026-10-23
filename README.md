@@ -317,7 +317,7 @@ Our Sprint Backlog connects our product roadmap to our real-time software delive
 ### 5.2 Structured Reflection 
 
 #### Collect
-I compiled our complete product backlog by analyzing our initial presentation brief, system architecture specifications, Trello board cards, and database relational models. 
+I collected development logs, commit histories, database revision timestamps, and deployment records from my deployment environment to construct this Agile Logbook. 
   
 #### Select
 I selected three key log entries covering project initiation, database implementation (`connectlySchema.sql`), and live Vercel deployment. These entries best highlight my ongoing contributions as full-stack developer across the project lifecycle.    
